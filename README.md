@@ -1,1 +1,1 @@
-# middy-legal
+# meddy-legal
